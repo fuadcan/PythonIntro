@@ -1,5 +1,3 @@
-
-
 # Konu 1 : Sayılar
 x = 3
 y = 2
