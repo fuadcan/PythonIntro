@@ -1,0 +1,2 @@
+exitvim | w3m https://unix.stackexchange.com/questions/253373/cant-exit-vim-with-q
+tmux    | w3m https://gist.github.com/MohamedAlaa/2961058 | sed '/Twitter:/q' 
