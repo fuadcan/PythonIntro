@@ -134,28 +134,27 @@ while True:
         sayi = float(sayi)
         print(sayi**2)
 """
-"""
+
 from time import sleep
 
 sabir_katsayisi = 3
 counter = 0
 while True:
-    if counter >= sabir_katsayisi:
-        print("Pat")
-        sleep(.5)
-        print("Güm")
-        sleep(.5)
-        print("Çotank")
-        sleep(.5)
-        print("Tamam tamam kızma")
-        break
+#    if counter >= sabir_katsayisi:
+#        print("Pat")
+#        sleep(.5)
+#        print("Güm")
+#        sleep(.5)
+#        print("Çotank")
+#        sleep(.5)
+#        print("Tamam tamam kızma")
+#        break
     cevap = input("Sana deniz anası takidi yapayım mı? ")
     cevap2 = "öyle %s demekle olmaz" % cevap
     print(cevap2)
     counter += 1
-    print(counter)
+#    print(counter)
 
 
-"""
 
 
