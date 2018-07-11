@@ -1,0 +1,11 @@
+Ad|Soyad|email|meslek|sirket
+Sinan|Tutuman|sinan.tutuman@intelcon.com.tr|bilisim|intelcon
+Mahir|Kilic|mahir.kilic@gmail.com|bilisim|intelcon
+Selin|Korkmaz|s.korkmaz@intelcon.com.tr|bilisim|intelcon
+Emrah Nur|Seren|seren.emrah@gmail.com|bilisim|intelcon
+Fuat Can|Beylunioğlu|fuadcan@gmail.com|akademi|University of Waterloo
+Merve|Ay|m.ay@intelcon.com.tr|bilisim|intelcon
+Fuat Can|Beylunioğlu|can.beylunioglu@bilgiedu.net|akademi|Bilgi Üniversitesi
+Ege|Yazgan|ege.yazgan@bilgi.edu.tr|akademi|Bilgi Üniversitesi
+Thanasis|Stengos|tstengos@uoguelph.ca|akademi|University of Guelph
+Ticari|Devam|ticaridevam@yandex.com|ticaret|Devamlı Ticaret

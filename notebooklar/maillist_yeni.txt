@@ -1,0 +1,6 @@
+Ad|Soyad|email|meslek|sirket
+Adnan|Külyazdı|adnan.kulyazdi@hotmail.com|ticaret|Külyazdı Ticaret
+Cumali|Genegelen|cumali.genegelen@outlook.com|bilisim|CGData
+Mümtaz|Gıybet|m.giyb@giybetmobilya.com.tr|mobilya|Gıybet Mobilya
+Hande Nur|Adalet|hanadal@gmail.com|turizm|Namtur Turizm
+Handan|Çalparacı|cocuklarbanaeman@yahoo.com|eğitim|Akıllı Çocuk Kreş
